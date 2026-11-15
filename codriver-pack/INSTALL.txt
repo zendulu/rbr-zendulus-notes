@@ -1,0 +1,26 @@
+Zendrive-CoDriver — Zendrive-scale co-driver for Richard Burns Rally
+
+Words: DR2 / EA Sports WRC style ("six left" … "acute hairpin"),
+spoken by the Zendrive Nicky voice set.
+
+Requires: Jannemod V3 (English) installed first — it provides the
+Pacenote plugin base. Source: the Jannemod V3 release.
+
+INSTALL
+1. Close RBR.
+2. Copy the folders "Plugins" and "Scale Sheets" from this archive
+   into your RBR install folder (where RichardBurnsRally_SSE.exe is).
+   Overwrite when asked. Your Jannemod voice folders and game audio
+   are untouched: this overlay only ADDS the Zendrive files.
+3. Start RBR. In the Pacenote plugin options select the co-driver
+   mode "ZENDRIVE" and set the language to english.
+   If ZENDRIVE is not listed, rename
+   Plugins\Pacenote\config\pacenotes\Zendrive.ini to Descriptive.ini
+   (the plugin then loads it in the "Descriptive" slot).
+4. Drop a stage plan (.ini) from Zendulus into the stage's pacenote
+   slot as usual, and drive.
+
+NOTES
+- Start-of-stage notes are silent; the finish note speaks "well done".
+- Corner severity is the sweep-angle ladder in Scale Sheet 1.
+- Distances and damage calls come from your Jannemod base.
