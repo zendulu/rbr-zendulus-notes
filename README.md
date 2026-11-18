@@ -9,8 +9,7 @@ To update: overwrite it. (NGPCarMenu uses the pacenote INI with the
 latest modified filestamp.)
 
 These notes are built to ship with the [**Zendrive**](https://github.com/zendulu/zendrive)
-co-driver mod, which speaks them as written. If you drive base RBR with
-**Jannemod V3**, `codriver-pack/` is a compatibility shim that lets
+co-driver mod, which speaks them as written. If you drive base RBR `codriver-pack/` is a compatibility shim that lets
 that setup speak the same words. The shim has had minimal testing —
 tell us what you find.
 
